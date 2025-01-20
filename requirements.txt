@@ -1,1 +1,4 @@
-# add required dependencies 
+# added dependencies required for employee_stats_app.py
+gradio
+pandas
+numpy 
